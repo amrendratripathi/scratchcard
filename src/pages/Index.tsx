@@ -34,7 +34,7 @@ const Index = () => {
                   🎉 Congratulations! 🎉
                 </h2>
                 <p className="text-sm text-muted-foreground">
-                  You&apos;ve been selected to 
+                  You&apos;ve got scratch card from
                   <span className="font-semibold text-foreground"> Appversal</span>.
                 </p>
               </div>
